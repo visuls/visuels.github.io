@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /znvygb
+Disallow: /_error-msg.php
+Disallow: /_checkout.html
+Disallow: /_message.html
+Disallow: /a-propos-de-nous.html
+Sitemap: sitemap.xml
